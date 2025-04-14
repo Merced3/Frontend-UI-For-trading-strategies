@@ -3,6 +3,9 @@
 So I've been making trading strategies for about 2 years now and ive been wanting a UI that gives them justice. at the beginning the strategies were simple and mainly for the purpose of dipping my toes into the industry but for the singular strategy that i have on private on github, I don't have any UI for it too show how good it really is.
 
 Hence this UI, this is more of a template for when I want too implement this UI to that strategy.
+
+## Basic UI setup
+
  ___________________________________________________
 |            |                                      |
 |   Config   |                                      |
@@ -14,6 +17,34 @@ Hence this UI, this is more of a template for when I want too implement this UI 
 |                                                   |
 |                       Logs                        |
 |___________________________________________________|
+
+## Live Monitoring Tab
+
+┌────────────────────────────────┬────────────────────────────────┐
+│	     Live Monitoring         │   Stock candles stick chart    │
+│			 		 		  	 │                                │
+│	   ┌────────────────────┐	 │                                │
+│ 	   │Threads 		  	│ 	 │                                │
+│ 	   ├────────────────────┤ 	 │                                │
+│ 	   │Other columns needed│    │                                │
+│ 	   ├────────────────────┤ 	 │                                │
+│ 	   │Data (scroll ^/⌄)   │ 	 │                                │
+│	   └────────────────────┘	 │                                │
+│			 		 		  	 │                                │
+│		┌────────────────────┐	 │                                │
+│ 	 	│Subprocesses 		 │ 	 │                                │
+│ 	 	├────────────────────┤ 	 │                                │
+│ 	 	│Other columns needed│ 	 │                                │
+│ 	 	├────────────────────┤ 	 │                                │
+│ 	 	│Data (scroll ^/⌄)   │ 	 │                                │
+│		└────────────────────┘	 │                                │
+│			 		 		  	 │                                │
+└────────────────────────────────┴────────────────────────────────┘
+│			 		 		  	 Logs                             │
+│			 		 		  					                  │
+│			 		 		  					                  │
+│			 		 		  					                  │
+└─────────────────────────────────────────────────────────────────┘
 
 ## Running This Project
 
