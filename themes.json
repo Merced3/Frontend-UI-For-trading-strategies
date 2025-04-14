@@ -1,0 +1,40 @@
+{
+  "light": {
+    "bg_color": "#f0f0f0",
+    "fg_color": "#333333",
+    "button_bg": "#ffffff",
+    "button_fg": "#333333",
+    "frame_bg": "#e0e0e0",
+    "log_bg": "#f5f5f5",
+    "log_fg": "#333333",
+    "arrow_button_bg": "#ffffff",
+    "arrow_button_fg": "#333333",
+    "button_hover_bg": "#bababa",
+    "button_active_bg": "#cfcfcf",
+    "collapse_hover_bg": "#bababa",
+    "collapse_active_bg": "#cfcfcf",
+    "card_bg": "#f8f8f8",
+    "entry_bg": "#ffffff",
+    "entry_fg": "#000000",
+    "dropdown_bg": "#f0f0f0"
+  },
+  "dark": {
+    "bg_color": "#1c1c1c",
+    "fg_color": "#ffffff",
+    "button_bg": "#333333",
+    "button_fg": "#ffffff",
+    "frame_bg": "#2c2c2c",
+    "log_bg": "#3a3a3a",
+    "log_fg": "#f5f5f5",
+    "arrow_button_bg": "#555555",
+    "arrow_button_fg": "#ffffff",
+    "button_hover_bg": "#565656",
+    "button_active_bg": "#868686",
+    "collapse_hover_bg": "#565656",
+    "collapse_active_bg": "#868686",
+    "card_bg": "#3a3a3a",
+    "entry_bg": "#2a2a2a",
+    "entry_fg": "#ffffff",
+    "dropdown_bg": "#2e2e2e"
+  }
+}
