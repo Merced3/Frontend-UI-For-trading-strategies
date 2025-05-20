@@ -74,6 +74,3 @@ def RSI():
         ]
     }
     return ui_setup
-
-
-
